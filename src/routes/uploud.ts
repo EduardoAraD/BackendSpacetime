@@ -33,7 +33,7 @@ export async function uploudRoutes(app: FastifyInstance) {
     const filename = fileId.concat(extension)
 
     const writeStream = createWriteStream(
-      resolve(__dirname, '../../uploads/', filename),
+      resolve(__dirname, '../../upload/', filename),
     )
 
     await pump(upload.file, writeStream)
