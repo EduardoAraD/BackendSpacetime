@@ -7,6 +7,11 @@
 
 Esse projeto é foi realizado no evento **NLW_SPACETIME** que está na sua 6° edição. Evento realizado pela [Rocketseat](https://www.rocketseat.com.br "Site da Rockeseat").
 
+## Links dos outros repositórios
+
+- WEB https://github.com/EduardoAraD/WebSpacetime
+- Mobile https://github.com/EduardoAraD/MobileSpacetime
+
 # Tecnologias utilizadas
 ## Back-end
 - TypeScript
